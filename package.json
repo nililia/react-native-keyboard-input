@@ -36,6 +36,7 @@
   },
   "peerDependencies": {
     "react": "~15.4.2",
+    "prop-types": "^15.6.0",
     "react-native": "^0.38.0"
   },
   "devDependencies": {
@@ -51,6 +52,7 @@
     "eslint-plugin-react-native": "^2.0.0",
     "jest": "^18.1.0",
     "mocha": "^3.3.0",
+    "prop-types": "^15.6.0",
     "react": "16.0.0-alpha.6",
     "react-native": "^0.44.0",
     "react-native-autogrow-textinput": "^3.0.0",
